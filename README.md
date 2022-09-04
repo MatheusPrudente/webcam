@@ -2,6 +2,13 @@
   :camera: Webcam
 </h2>
 
+<p align="center">
+    <img src="https://img.shields.io/github/languages/count/MatheusPrudente/webcam"/>
+    <img src="https://img.shields.io/github/repo-size/MatheusPrudente/webcam"/>
+    <img src="https://img.shields.io/github/last-commit/MatheusPrudente/webcam"/>
+    <img src="https://img.shields.io/github/issues/MatheusPrudente/webcam"/>
+</p> 
+
 ## 	:rocket: Tecnologias 
 
 Este projeto foi desenvolvido com as seguintes tecnologias : 
